@@ -1,0 +1,16 @@
+{
+    "post": [
+        {
+          "StudentName": "THI NGOC NHI NGUYEN",
+          "BIRTHDAY": "1998",
+          "SCHOOL": "VAN LANG UNIVERSITY",
+          "id": 1
+        },
+        {
+          "StudentName": "THI NGOC NHI NGUYEN",
+          "BIRTHDAY": "1998",
+          "SCHOOL": "VAN LANG UNIVERSITY",
+          "id": 2
+        }
+      ]
+    }
